@@ -1,4 +1,4 @@
-# fRaonar
+<h1># fRaonar</h1>
 ** Digital Craftsman (Developer/Engineer) **
 🎓 ECE student at PES University, Bangalore | Aspiring Full Stack Developer
 💻 Currently mastering Full Stack Development (MERN) to build scalable, user-centric applications
