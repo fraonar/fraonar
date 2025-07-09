@@ -51,5 +51,6 @@
 ---
 
 ### 💬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-X-black?logo=twit)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-raonar-861b49355/)
+[![Twitter](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/Raonar61744062)
+
