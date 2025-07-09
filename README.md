@@ -1,5 +1,11 @@
-## Hi there 👋
-
+# fRaonar
+** Digital Craftsman (Developer/Engineer) **
+🎓 ECE student at PES University, Bangalore | Aspiring Full Stack Developer
+💻 Currently mastering Full Stack Development (MERN) to build scalable, user-centric applications
+🧠 On the side, I'm diving deep into systems programming—building my own Operating System from scratch
+🎯 Passionate about design, problem-solving, and bringing ideas to life through code
+🚀 Always learning. Always building. Ready to take on real-world challenges.
+- - -
 <!--
 **fraonar/fraonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
