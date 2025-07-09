@@ -1,4 +1,7 @@
-<h2 align="center"> <span style="color:#800080;">fRaonar</span></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=36&duration=2000&color=36FFB9&center=true&vCenter=true&width=420&lines=%3C%2FfRaonar%3E;const+creator+%3D+fRaonar;sudo+build+--os+--mern+--life" />
+</p>
+
 
 <p align="center">
   <em>⚡ Digital Craftsman | 🧠 Systems Thinker | 💻 Full Stack Developer in the making</em><br>
