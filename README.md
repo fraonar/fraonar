@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm <span style="color:#00f;">fRaonar</span></h2>
+<h2 align="center"> <span style="color:#800080;">fRaonar</span></h2>
 
 <p align="center">
   <em>⚡ Digital Craftsman | 🧠 Systems Thinker | 💻 Full Stack Developer in the making</em><br>
